@@ -18,8 +18,8 @@
 ## Insert switches / スイッチの取り付け
 
 ![image](https://github.com/user-attachments/assets/327ba14c-d867-4c9e-a1eb-467bf7e3bc27)
-Please confirm the direction of switches.\
-スイッチの向きに注意してください。
+Please confirm the direction of switches. If it is hard to insert, press the latch on the switch to make it easier to insert. \
+スイッチの向きに注意してください。硬い場合は、スイッチのツメを押しながら指すと比較的楽になります。
 
 ![image](https://github.com/user-attachments/assets/be16e999-c77e-4b7a-beb0-3e61d305a507)
 Insert the switch foam from the backside of the switches. There are no two sides.\
